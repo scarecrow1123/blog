@@ -11,3 +11,4 @@ Whilst I started writing by using only README.md, I stumbled upon [Luke Gorrie's
 * Discussions through commenting on posts
 * Get notified of new stuff by "Watching" this repository
 * Or just bookmark it by "Star"ring this repository
+* Categorize posts using "Labels"

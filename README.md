@@ -5,4 +5,9 @@ My blog or rather just a list of interesting things that I would like to note do
 [#1 Python Control Flow: EAFP Vs LBYL](https://github.com/scarecrow1123/blog/issues/1) *Apr 22, 2019*
 
 ### A note on using Github issues for writing a blog
-Whilst I started writing by using only README.md, I stumbled upon [Luke Gorrie's blog](https://github.com/lukego/blog) where this style was being followed. It never occurred to me that Github Issues has all the features necessary for maintaining a blog until I saw Luke's repo!
+Whilst I started writing by using only README.md, I stumbled upon [Luke Gorrie's blog](https://github.com/lukego/blog) where this style was being followed. It never occurred to me that Github Issues has all the features necessary for maintaining a blog until I saw Luke's repo! Some of the stuff necessary for a blog that are available here:
+
+* Adding reactions to a post(issues)
+* Discussions through commenting on posts
+* Get notified of new stuff by "Watching" this repository
+* Or just bookmark it by "Star"ring this repository

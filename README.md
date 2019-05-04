@@ -16,7 +16,7 @@ __Tags__: ![#5319e7](https://placehold.it/15/5319e7/000000?text=+) [gatech-omscs
 
 ###### <i> These are two different ways to do control flow. LBYL style pertains to writing if/else blocks to make decisions. According to [1], in this not so standard Pythonic way of doing control flow, exceptional cases get the emphasis by the way... </i> [Read More](https://github.com/scarecrow1123/blog/issues/1)
 
-### A note on using Github issues for writing a blog
+#### A note on using Github issues for writing a blog
 Whilst I started writing by using only README.md, I stumbled upon [Luke Gorrie's blog](https://github.com/lukego/blog) where this style was being followed. It never occurred to me that Github Issues has all the features necessary for maintaining a blog until I saw Luke's repo! Some of the stuff necessary for a blog that are available here:
 
 * Adding reactions to a post(issues)
@@ -26,7 +26,7 @@ Whilst I started writing by using only README.md, I stumbled upon [Luke Gorrie's
 * Categorize posts using "Labels"
 * Search
 
-### About Me:
+#### About Me:
 
 [LinkedIn Profile](https://www.linkedin.com/in/sri-ananda-seelan-lakshmi-narasimhan-86330776/)
   

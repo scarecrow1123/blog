@@ -1,8 +1,8 @@
 I am Ananda Seelan and this is my blog *(or rather just a list of interesting things that I would like to note down for myself or a few others who might find it interesting)*
 
 
-Tags: ![#5319e7](https://placehold.it/15/5319e7/000000?text=+) [`gatech omscs`](https://github.com/scarecrow1123/blog/issues?q=is%3Aissue+is%3Aopen+label%3Agatech-omscs)  **|** 
-![#9eef73](https://placehold.it/15/9eef73/000000?text=+) [`python`](https://github.com/scarecrow1123/blog/issues?q=is%3Aissue+is%3Aopen+label%3Apython)
+Tags: ![#5319e7](https://placehold.it/15/5319e7/000000?text=+) [gatech-omscs](https://github.com/scarecrow1123/blog/issues?q=is%3Aissue+is%3Aopen+label%3Agatech-omscs)  **|** 
+![#9eef73](https://placehold.it/15/9eef73/000000?text=+) [python](https://github.com/scarecrow1123/blog/issues?q=is%3Aissue+is%3Aopen+label%3Apython)
 
 
 ## Table of Contents

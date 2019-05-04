@@ -20,7 +20,7 @@ Table of Contents
 *Apr 22, 2019*
 ******
 
-#### A note on using Github issues for writing a blog
+##### A note on using Github issues for writing a blog
 Whilst I started writing by using only README.md, I stumbled upon [Luke Gorrie's blog](https://github.com/lukego/blog) where this style was being followed. It never occurred to me that Github Issues has all the features necessary for maintaining a blog until I saw Luke's repo! Some of the stuff necessary for a blog that are available here:
 
 * Adding reactions to a post(issues)
@@ -30,7 +30,7 @@ Whilst I started writing by using only README.md, I stumbled upon [Luke Gorrie's
 * Categorize posts using "Labels"
 * Search
 
-#### About Me:
+##### About Me:
 
 [LinkedIn Profile](https://www.linkedin.com/in/sri-ananda-seelan-lakshmi-narasimhan-86330776/)
   

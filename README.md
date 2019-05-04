@@ -1,6 +1,6 @@
 # Scarecrow's Blog
 
-My blog or rather just a list of interesting things that I would like to note down for myself or a few others who might find it interesting.
+I am Ananda Seelan and this is my blog *(or rather just a list of interesting things that I would like to note down for myself or a few others who might find it interesting)*
 
 
 Tags: [gatech omscs](https://github.com/scarecrow1123/blog/issues?q=is%3Aissue+is%3Aopen+label%3A%22gatech+omscs%22)  **|** 

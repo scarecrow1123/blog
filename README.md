@@ -7,12 +7,12 @@ __Tags__: ![#5319e7](https://placehold.it/15/5319e7/000000?text=+) [gatech-omscs
 
 ## Table of Contents
 
-##### #2 About Georgia Tech OMSCS ![#5319e7](https://placehold.it/15/5319e7/000000?text=+) *May 4, 2019*
+##### #2 [About Georgia Tech OMSCS](https://github.com/scarecrow1123/blog/issues/2) ![#5319e7](https://placehold.it/15/5319e7/000000?text=+) *May 4, 2019*
 
 ###### <i> Georgia Tech introduced their Online Master's program way back in 2014 IIRC.  I remember reading one of the early Hacker News(HN) threads about the program when this program was introduced. MOOCs were...</i>  [Read More](https://github.com/scarecrow1123/blog/issues/2)
 
 
-##### #1 Python Control Flow: EAFP Vs LBYL ![#9eef73](https://placehold.it/15/9eef73/000000?text=+) *Apr 22, 2019*
+##### #1 [Python Control Flow: EAFP Vs LBYL](https://github.com/scarecrow1123/blog/issues/1) ![#9eef73](https://placehold.it/15/9eef73/000000?text=+) *Apr 22, 2019*
 
 ###### <i> These are two different ways to do control flow. LBYL style pertains to writing if/else blocks to make decisions. According to [1], in this not so standard Pythonic way of doing control flow, exceptional cases get the emphasis by the way... </i> [Read More](https://github.com/scarecrow1123/blog/issues/1)
 

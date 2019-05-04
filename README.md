@@ -2,6 +2,7 @@
 My blog or rather just a list of interesting things that I would like to note down for myself or a few others who might find it interesting.
 
 ## Table of Contents
+[#2 About Georgia Tech OMSCS](https://github.com/scarecrow1123/blog/issues/2) *May 4, 2019*
 [#1 Python Control Flow: EAFP Vs LBYL](https://github.com/scarecrow1123/blog/issues/1) *Apr 22, 2019*
 
 ### A note on using Github issues for writing a blog

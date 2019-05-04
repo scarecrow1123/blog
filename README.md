@@ -2,11 +2,12 @@
 
 My blog or rather just a list of interesting things that I would like to note down for myself or a few others who might find it interesting.
 
-## Table of Contents
 
 Tags: [gatech omscs](https://github.com/scarecrow1123/blog/issues?q=is%3Aissue+is%3Aopen+label%3A%22gatech+omscs%22)  **|** 
 [python](https://github.com/scarecrow1123/blog/issues?q=is%3Aissue+is%3Aopen+label%3Apython)
 
+
+## Table of Contents
 
 [#2 About Georgia Tech OMSCS](https://github.com/scarecrow1123/blog/issues/2) *May 4, 2019*
 

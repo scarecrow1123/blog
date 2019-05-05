@@ -7,6 +7,11 @@ I am Ananda Seelan and this is my blog *(or rather just a list of interesting th
 Table of Contents
 -----------------
 
+##### #3 [OMS CS7637 - Knowledge-Based AI - Spring '19](https://github.com/scarecrow1123/blog/issues/3) ![#5319e7](https://placehold.it/15/5319e7/000000?text=+) 
+
+###### <i> I applied for OMSCS in 2018 and joined the Spring '19 batch. I intend to do Machine Learning(ML) Specialization. KBAI is in no way related to anything that is machine learning and it does not fall under the core/elective courses that is required for the specialization. ...</i>  [Read More](https://github.com/scarecrow1123/blog/issues/3)
+*May 5, 2019*
+******
 
 ##### #2 [About Georgia Tech OMSCS](https://github.com/scarecrow1123/blog/issues/2) ![#5319e7](https://placehold.it/15/5319e7/000000?text=+) 
 

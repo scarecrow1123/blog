@@ -1,11 +1,17 @@
 I am Ananda Seelan and this is my blog *(or rather just a list of interesting things that I would like to note down for myself or a few others who might find it interesting)*. You can find the actual [blog entries in the Issues tab of this repo](https://github.com/scarecrow1123/blog/issues). Each blog is labelled and hence can be filtered with tags linked [below](https://github.com/scarecrow1123/blog/blob/master/README.md#tags-----gatech-omscs-----python). Links for individual blog entry is listed in the [ToC](https://github.com/scarecrow1123/blog/blob/master/README.md#table-of-contents).
 
 
-###### Tags:    ![#5319e7](https://placehold.it/15/5319e7/000000?text=+) [gatech-omscs](https://github.com/scarecrow1123/blog/issues?q=is%3Aissue+is%3Aopen+label%3Agatech-omscs)  |  ![#9eef73](https://placehold.it/15/9eef73/000000?text=+) [python](https://github.com/scarecrow1123/blog/issues?q=is%3Aissue+is%3Aopen+label%3Apython)
+###### Tags:    ![#5319e7](https://placehold.it/15/5319e7/000000?text=+) [gatech-omscs](https://github.com/scarecrow1123/blog/issues?q=is%3Aissue+is%3Aopen+label%3Agatech-omscs)  |  ![#9eef73](https://placehold.it/15/9eef73/000000?text=+) [python](https://github.com/scarecrow1123/blog/issues?q=is%3Aissue+is%3Aopen+label%3Apython)  |  ![#30ffe0](https://placehold.it/15/30ffe0/000000?text=+) [deep-learning](https://github.com/scarecrow1123/blog/labels/deep-learning)  |  ![#0052cc](https://placehold.it/15/0052cc/000000?text=+) [software](https://github.com/scarecrow1123/blog/labels/software)
 
 
 Table of Contents
 -----------------
+
+##### #4 [Exploring Jsonnet](https://github.com/scarecrow1123/blog/issues/5) ![#30ffe0](https://placehold.it/15/30ffe0/000000?text=+)  ![#0052cc](https://placehold.it/15/0052cc/000000?text=+)
+
+###### <i> Jsonnet is a DSL for creating data templates and comes in handy to generate JSON based configuration data. It comes with a standard library std that includes features. ...</i>  [Read More](https://github.com/scarecrow1123/blog/issues/5)
+*July 6, 2019*
+******
 
 ##### #3 [OMS CS7637 - Knowledge-Based AI (KBAI) - Spring '19](https://github.com/scarecrow1123/blog/issues/3) ![#5319e7](https://placehold.it/15/5319e7/000000?text=+) 
 

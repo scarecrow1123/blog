@@ -7,6 +7,12 @@ I am Ananda Seelan and this is my blog *(or rather just a list of interesting th
 Table of Contents
 -----------------
 
+##### #5 [OMS CS7638 Robotics - AI Techniques - Summer '19](https://github.com/scarecrow1123/blog/issues/6) ![#5319e7](https://placehold.it/15/5319e7/000000?text=+)
+
+###### <i> This happened to be my second OMS course following KBAI. Previously known as AI for Robotics(AI4R popularly), ...</i>  [Read More](https://github.com/scarecrow1123/blog/issues/5)
+*Aug 1, 2019*
+******
+
 ##### #4 [Exploring Jsonnet](https://github.com/scarecrow1123/blog/issues/5) ![#30ffe0](https://placehold.it/15/30ffe0/000000?text=+)  ![#0052cc](https://placehold.it/15/0052cc/000000?text=+)
 
 ###### <i> Jsonnet is a DSL for creating data templates and comes in handy to generate JSON based configuration data. It comes with a standard library std that includes features. ...</i>  [Read More](https://github.com/scarecrow1123/blog/issues/5)

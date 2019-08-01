@@ -9,7 +9,7 @@ Table of Contents
 
 ##### #5 [OMS CS7638 Robotics - AI Techniques - Summer '19](https://github.com/scarecrow1123/blog/issues/6) ![#5319e7](https://placehold.it/15/5319e7/000000?text=+)
 
-###### <i> This happened to be my second OMS course following KBAI. Previously known as AI for Robotics(AI4R popularly), ...</i>  [Read More](https://github.com/scarecrow1123/blog/issues/5)
+###### <i> This happened to be my second OMS course following KBAI. Previously known as AI for Robotics(AI4R popularly), ...</i>  [Read More](https://github.com/scarecrow1123/blog/issues/6)
 *Aug 1, 2019*
 ******
 

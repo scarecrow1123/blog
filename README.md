@@ -7,9 +7,17 @@ I am Ananda Seelan and this is my blog *(or rather just a list of interesting th
 Table of Contents
 -----------------
 
-##### #7 [OMS CS7646 Machine Learning for Trading - Fall '19](https://github.com/scarecrow1123/blog/issues/7) ![#5319e7](https://placehold.it/15/5319e7/000000?text=+)
 
-###### <i> This was my third OMS course after Robotics - AI Techniques and ...</i>  [Read More](https://github.com/scarecrow1123/blog/issues/7)
+##### #8 [Audio pre-processing for Machine Learning: Getting things right](https://github.com/scarecrow1123/blog/issues/9) ![#30ffe0](https://placehold.it/15/30ffe0/000000?text=+)  ![#0052cc](https://placehold.it/15/0052cc/000000?text=+) ![#9eef73](https://placehold.it/15/9eef73/000000?text=+)
+
+###### <i> For any machine learning experiment, careful handling of input data in terms of cleaning, encoding/decoding, featurizing are paramount. When it comes to applying  ...</i>  [Read More](https://github.com/scarecrow1123/blog/issues/9)
+*Jan 1, 2020*
+******
+
+
+##### #7 [OMS CS7646 Machine Learning for Trading - Fall '19](https://github.com/scarecrow1123/blog/issues/8) ![#5319e7](https://placehold.it/15/5319e7/000000?text=+)
+
+###### <i> This was my third OMS course after Robotics - AI Techniques and ...</i>  [Read More](https://github.com/scarecrow1123/blog/issues/8)
 *Dec 31, 2019*
 ******
 

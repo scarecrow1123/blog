@@ -7,6 +7,12 @@ I am Ananda Seelan and this is my blog *(or rather just a list of interesting th
 Table of Contents
 -----------------
 
+##### #7 [OMS CS7646 Machine Learning for Trading - Fall '19](https://github.com/scarecrow1123/blog/issues/7) ![#5319e7](https://placehold.it/15/5319e7/000000?text=+)
+
+###### <i> This was my third OMS course after Robotics - AI Techniques and ...</i>  [Read More](https://github.com/scarecrow1123/blog/issues/7)
+*Dec 31, 2019*
+******
+
 ##### #6 [How to handle multi process logging in Python?](https://github.com/scarecrow1123/blog/issues/7) ![#9eef73](https://placehold.it/15/9eef73/000000?text=+)  ![#0052cc](https://placehold.it/15/0052cc/000000?text=+)
 
 ###### <i> Python's logging module provides a list of super useful handlers to handle/redirect log messages to required target destinations. For instance FileHandler sends the messages to a file, DatagramHandler sends to UDP ports, etc. In a multi process, ...</i>  [Read More](https://github.com/scarecrow1123/blog/issues/7)

@@ -7,7 +7,7 @@ I am Ananda Seelan and this is my blog *(or rather just a list of interesting th
 Table of Contents
 -----------------
 
-##### #7 [OMS CS6601 Artificial Intelligence - Spring '20](https://github.com/scarecrow1123/blog/issues/11) ![#5319e7](https://placehold.it/15/5319e7/000000?text=+)
+##### #9 [OMS CS6601 Artificial Intelligence - Spring '20](https://github.com/scarecrow1123/blog/issues/11) ![#5319e7](https://placehold.it/15/5319e7/000000?text=+)
 
 ###### <i> This is my second year in the OMS program and CS6601 proved to be way more serious than the previous ones that I had taken before ...</i>  [Read More](https://github.com/scarecrow1123/blog/issues/11)
 *May 10, 2020*
